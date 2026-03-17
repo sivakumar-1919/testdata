@@ -1,2 +1,3 @@
 this is swathi
 swathi is clever girl 
+swathi is now learning git 
